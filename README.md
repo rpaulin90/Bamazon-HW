@@ -76,4 +76,5 @@ As the names of the options imply, the user can either look at how each product 
 <img width="561" alt="create_new_department" src="https://cloud.githubusercontent.com/assets/23643322/26529641/397a83fe-4389-11e7-84e8-5cdbf4af97f8.png">
 
 The new department "clothing" has been added.
+
 <img width="374" alt="departments_table" src="https://cloud.githubusercontent.com/assets/23643322/26529642/418758ec-4389-11e7-9eac-4f04242a293d.png">
